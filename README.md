@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Hayden! That's about it!
 
 <!--
 **Jean-LuckyPicard/Jean-LuckyPicard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
